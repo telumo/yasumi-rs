@@ -1,6 +1,6 @@
 # 🎌 Yasumi - Japanese Holidays for Rust
 
-**Yasumi** is a Rust library inspired by the popular [jpholiday](https://github.com/Lalit73/jpholiday) Python package. It allows you to determine whether a given date is a holiday in Japan and retrieve holiday lists for specific years.
+**Yasumi** is a Rust library inspired by the popular [jpholiday](https://github.com/Lalcs/jpholiday) Python package. It allows you to determine whether a given date is a holiday in Japan and retrieve holiday lists for specific years.
 
 With Yasumi, you get an ergonomic, high-performance Rust library for managing Japanese holidays, while maintaining the familiar interface of jpholiday.
 
@@ -76,7 +76,7 @@ Rust is known for its memory safety, speed, and concurrency support. Yasumi leve
 Clone the repository and build the project:
 
 ```bash
-git clone https://github.com/yourusername/yasumi.git
+git clone https://github.com/telumo/yasumi.git
 cd yasumi
 cargo build
 ```
@@ -89,4 +89,4 @@ cargo test
 
 ## 🎉 Credits
 
-Yasumi is inspired by the [jpholiday](https://github.com/Lalit73/jpholiday) Python package. Special thanks to the jpholiday community and all contributors who made this project possible.
+Yasumi is inspired by the [jpholiday](https://github.com/Lalcs/jpholiday) Python package. Special thanks to the jpholiday community and all contributors who made this project possible.
