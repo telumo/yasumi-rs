@@ -1,0 +1,20 @@
+[package]
+name = "yasumi"
+version = "0.1.0"
+edition = "2021"
+authors = ["telumo"]
+homepage = "https://github.com/telumo/yasumi-rs"
+documentation = "https://docs.rs/yasumi"
+repository = "https://github.com/telumo/yasumi-rs"
+license = "MIT"
+license-file = "LICENSE"
+description = "Yasumi is a library for calculating the dates of Japanese holidays."
+keywords = ["yasumi", "holiday", "japanese"]
+readme = "README.md"
+
+[dependencies]
+chrono = "0.4.38"
+time = "0.3.36"
+
+[dev-dependencies]
+rstest = "0.22.0"
